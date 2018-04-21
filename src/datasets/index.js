@@ -1,5 +1,4 @@
-// November 2017 Cohort
-export const COHORT = [
+export const NOV_2017_COHORT = [
 	'azamsharp',
 	'Jesus369',
 	'danielbdyer',
@@ -11,4 +10,41 @@ export const COHORT = [
 	'kelvin-mai',
 	'ninikat',
 	'noueilaty'
+];
+
+export const FEB_2018_COHORT = [
+	'vlino2015',
+	'carrda',
+	'kristenbaldwin',
+	'alani989',
+	'kmcc505',
+	'Muckler',
+	'Nhatseafood',
+	'andytanghr',
+	'thigabiga',
+	'TheBrotherFromASouthernMother',
+	'H0bbyist',
+	'AuriferousAurora',
+	'zzhang46516',
+	'NathanIzuora',
+	'JediJakeIsCOOL'
+];
+
+export const FLEX_2018_COHORT = [
+	'pizzapanther',
+	'joeynguyen',
+	'Klgibson528',
+	'iuriarte',
+	'Zengeol',
+	'electricgnome',
+	'Julianpse',
+	'jessicapolansky',
+	'laddeyboy',
+	'jaggie84',
+	'scm2nycotx',
+	'aaronkyl',
+	'Salty-Potato',
+	'JimHe7',
+	'ziqingW',
+	'schmidtna'
 ];
