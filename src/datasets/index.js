@@ -27,7 +27,12 @@ export const FEB_2018_COHORT = [
 	'AuriferousAurora',
 	'zzhang46516',
 	'NathanIzuora',
-	'JediJakeIsCOOL'
+	'JediJakeIsCOOL',
+	'dhull33',
+	'adrian-jablonski',
+	'CSchuster1995',
+	'callumbyers',
+	'Cristobal3'
 ];
 
 export const FLEX_2018_COHORT = [
