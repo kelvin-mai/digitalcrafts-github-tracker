@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 
 import DC from '../assets/digitalcrafts.png';
 import User from './User';
-import { FEB_2018_COHORT as cohort } from '../datasets';
+import { HTX_FEB_2018_COHORT as cohort } from '../datasets';
 
 export default class App extends Component {
 	render() {

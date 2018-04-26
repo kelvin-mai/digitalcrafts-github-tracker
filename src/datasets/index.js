@@ -1,5 +1,11 @@
-export const NOV_2017_COHORT = [
+export const DC_INSTRUCTORS = [
 	'azamsharp',
+	'vlino2015',
+	'pizzapanther',
+	'joeynguyen'
+];
+
+export const HTX_NOV_2017_COHORT = [
 	'Jesus369',
 	'danielbdyer',
 	'williamtsanders',
@@ -12,8 +18,7 @@ export const NOV_2017_COHORT = [
 	'noueilaty'
 ];
 
-export const FEB_2018_COHORT = [
-	'vlino2015',
+export const HTX_FEB_2018_COHORT = [
 	'carrda',
 	'kristenbaldwin',
 	'alani989',
@@ -35,9 +40,7 @@ export const FEB_2018_COHORT = [
 	'Cristobal3'
 ];
 
-export const FLEX_2018_COHORT = [
-	'pizzapanther',
-	'joeynguyen',
+export const HTX_FLEX_2018_COHORT = [
 	'Klgibson528',
 	'iuriarte',
 	'Zengeol',
